@@ -1,6 +1,5 @@
 
 # Securing Passwords
-
 ## Objectives
 
 1. Learn about bcrypt, a gem that works to encrypt passwords.
